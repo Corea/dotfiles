@@ -9,7 +9,7 @@ setlocal ts=4
 setlocal sw=4
 setlocal sts=4
 
-setlocal cc=80
+setlocal cc=100
 setlocal tw=100
 
 " braceless.vim
