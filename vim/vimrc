@@ -676,6 +676,9 @@ if has("gui_running")
         set guifont=Consolas:h11:cANSI
         set guifontwide=GulimChe:h12:cDEFAULT
 
+        " putty
+        set notermguicolors
+
     elseif has("gui_gtk2")
         " font setting for Ubuntu linux (GTK)
         set guifont=Ubuntu\ Mono\ derivative\ Powerline\ 12
